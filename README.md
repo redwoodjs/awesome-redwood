@@ -47,6 +47,7 @@ A community-driven collection of Redwood related plugins, config, themes, build 
 ### Tutorials
 - [Coding With Jess](https://www.youtube.com/watch?v=ArC-tvX1JpE)
 - [Introduction to RedwoodJS: full-stack framework for JAMstack](https://egghead.io/playlists/introduction-to-redwoodjs-full-stack-jamstack-framework-2b10)
+- [The Jamstack Goes Full-Stack: RedwoodJS Framework Tutorial](https://snipcart.com/blog/jamstack-framework-redwoodjs-tutorial)
 
 ### YouTube
 - [Max Stoiber live with @appfactory](https://www.youtube.com/watch?v=5rfE3x8ri9M)
