@@ -23,6 +23,7 @@ A community-driven collection of Redwood related plugins, config, themes, build 
 - [Adding Authentication to RedwoodJS (the hard way)](https://dev.to/tmns/adding-authentication-to-redwoodjs-the-hard-way-4d2p)
 - [Adding TailwindCSS to RedwoodJS](https://mdv.io/tailwindcss-in-redwoodjs) 
 - [RedwoodJS ecommerce with Snipcart](https://dev.to/studio_hungry/redwoodjs-ecommerce-with-snipcart-402n)
+- [Use Linaria CSS-in-JS](https://community.redwoodjs.com/t/how-to-use-linaria-css-in-js-with-redwoodjs/612)
 
 ### Official
 - [redwoodjs.com](https://redwoodjs.com)
