@@ -48,6 +48,9 @@ A community-driven collection of Redwood related plugins, config, themes, build 
 - [JS Party](https://changelog.com/jsparty/119)
 - [Fullstack Radio](http://www.fullstackradio.com/138)
 - [Shoptalk](https://shoptalkshow.com/412)
+- [WAPI Radio](https://www.listennotes.com/podcasts/wapi-radio-bootleg/the-making-of-redwoodjs-yM0a3AvuGDH/)
+- [Software Daily](https://www.softwaredaily.com/post/5ec7997912b353000c6381d8/RedwoodJS-with-Tom-PrestonWerner)
+- [Frontend First](https://frontendfirst.fm/episodes/tom-preston-werner-on-architecture-decisions-in-redwood-js)
 
 ### Projects Using Redwood
 
