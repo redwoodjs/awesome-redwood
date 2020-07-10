@@ -7,6 +7,7 @@ A community-driven collection of Redwood related plugins, config, themes, build 
 - [Auth Examples](#Auth-Examples)
 - [Blog Posts](#Blog-Posts)
 - [How To’s](#How-To’s)
+- [Netlify Build Plugins](#Netlify-Build-Plugins)
 - [Official](#Official)
 - [Plugins](#Plugins)
 - [Podcasts](#Podcasts)
@@ -32,6 +33,10 @@ A community-driven collection of Redwood related plugins, config, themes, build 
 - [Adding TailwindCSS to RedwoodJS](https://mdv.io/tailwindcss-in-redwoodjs)
 - [RedwoodJS ecommerce with Snipcart](https://dev.to/studio_hungry/redwoodjs-ecommerce-with-snipcart-402n)
 - [Use Linaria CSS-in-JS](https://community.redwoodjs.com/t/how-to-use-linaria-css-in-js-with-redwoodjs/612)
+
+### Netlify Build Plugins
+
+- [netlify-plugin-redwoodjs-env-validator](https://github.com/dthyresson/netlify-plugin-redwoodjs-env-validator)
 
 ### Official
 
