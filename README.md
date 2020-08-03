@@ -43,6 +43,7 @@ A community-driven collection of Redwood related plugins, config, themes, build 
 - [redwoodjs.com](https://redwoodjs.com)
 - [RedwoodJS Community](https://community.redwoodjs.com/)
 - [redwoodjs/redwood](https://github.com/redwoodjs/redwood)
+- [RedwoodJS Youtube Channel](https://www.youtube.com/channel/UC28N26JtvmJpyD-GD0GOlaQ)
 
 ### Plugins
 
@@ -61,6 +62,7 @@ A community-driven collection of Redwood related plugins, config, themes, build 
 
 - [Predict COVID](https://predictcovid.com/)
 - [Vida](https://github.com/vidalab/vida)
+- [Tape.sh](https://www.tape.sh/)
 
 ### Twitter
 
@@ -74,5 +76,8 @@ A community-driven collection of Redwood related plugins, config, themes, build 
 
 ### YouTube
 
+- [RedwoodJS Demo with Tom Preston-Werner - Jamstack Conf](https://www.youtube.com/watch?v=NWCECB-GlWI)
+- [RedwoodJS: Bringing Full-Stack to the Jamstack - Prisma Day 2020](https://www.youtube.com/watch?v=uBvG0zmRLJM)
 - [Max Stoiber live with @appfactory](https://www.youtube.com/watch?v=5rfE3x8ri9M)
 - [Redwood Talk and Demo by its Co-Author Peter Pistorius aka @appfactory](https://www.youtube.com/watch?list=PLCC436JpVnK31LZG2cNINhlEQ1KTm39BR&v=rAb0H-MD-Fs)
+- [Rob Cameron - Redwood.js Core Team - Learn With Us](https://www.youtube.com/watch?v=1DW3pXZhPFw)
