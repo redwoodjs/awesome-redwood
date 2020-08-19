@@ -4,18 +4,20 @@ A community-driven collection of Redwood related plugins, config, themes, build 
 
 ## Contents
 
-- [Auth Examples](#Auth-Examples)
-- [Blog Posts](#Blog-Posts)
-- [Flair](#Flair)
-- [How To’s](#How-To’s)
-- [Netlify Build Plugins](#Netlify-Build-Plugins)
-- [Official](#Official)
-- [Plugins](#Plugins)
-- [Podcasts](#Podcasts)
-- [Projects Using Redwood](#Projects-Using-Redwood)
-- [Twitter](#Twitter)
-- [Tutorials](#Tutorials)
-- [YouTube](#YouTube)
+- [awesome-redwood ![Awesome](https://awesome.re)](#awesome-redwood-img-srchttpsawesomerebadgesvg-altawesome)
+  - [Contents](#contents)
+    - [Auth Examples](#auth-examples)
+    - [Blog posts](#blog-posts)
+    - [Flair](#flair)
+    - [How To’s](#how-tos)
+    - [Netlify Build Plugins](#netlify-build-plugins)
+    - [Official](#official)
+    - [Plugins](#plugins)
+    - [Podcasts](#podcasts)
+    - [Projects Using Redwood](#projects-using-redwood)
+    - [Twitter](#twitter)
+    - [Tutorials](#tutorials)
+    - [YouTube](#youtube)
 
 ### Auth Examples
 
