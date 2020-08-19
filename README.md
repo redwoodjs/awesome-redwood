@@ -4,8 +4,6 @@ A community-driven collection of Redwood related plugins, config, themes, build 
 
 ## Contents
 
-- [awesome-redwood ![Awesome](https://awesome.re)](#awesome-redwood-img-srchttpsawesomerebadgesvg-altawesome)
-  - [Contents](#contents)
     - [Auth Examples](#auth-examples)
     - [Blog posts](#blog-posts)
     - [Flair](#flair)
