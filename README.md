@@ -38,6 +38,7 @@ A community-driven collection of Redwood related plugins, config, themes, build 
 - [Adding TailwindCSS to RedwoodJS](https://mdv.io/tailwindcss-in-redwoodjs)
 - [RedwoodJS ecommerce with Snipcart](https://dev.to/studio_hungry/redwoodjs-ecommerce-with-snipcart-402n)
 - [Use Linaria CSS-in-JS](https://community.redwoodjs.com/t/how-to-use-linaria-css-in-js-with-redwoodjs/612)
+- [Redwood Tutorial Blog w/ Netlify Identity and RBAC Example](https://github.com/dthyresson/redwoodblog-rbac) - Authentication and role-based Access Control [Demo Site](https://redwoodblog-with-identity.netlify.app/)
 
 ### Netlify Build Plugins
 
