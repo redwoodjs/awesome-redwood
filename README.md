@@ -4,29 +4,29 @@ A community-driven collection of Redwood related plugins, config, themes, build 
 
 ## Table of Contents
 
-* Official
-  * Community Links
-  * Example Applications
-  * Video Tutorial
-* Deployment
-* Storage
-* Articles
-* Video
-  * Tutorials
-  * Talks
-  * Meetups
-* Podcasts
-* Auth
-  * Providers
-  * Tutorials
-  * Example Applications
-  * Community Discussion
-* CSS
-* Plugins
-* Storybook
-* Production Redwood Applications
-* Community
-* Comparisons to Other Frameworks
+* [Official](https://github.com/redwoodjs/awesome-redwood#official)
+  * [Community Links](https://github.com/redwoodjs/awesome-redwood#community-links)
+  * [Example Applications](https://github.com/redwoodjs/awesome-redwood#example-applications)
+  * [Video Tutorial](https://github.com/redwoodjs/awesome-redwood#video-tutorial)
+* [Deployment](https://github.com/redwoodjs/awesome-redwood#deployment)
+* [Storage](https://github.com/redwoodjs/awesome-redwood#storage)
+* [Articles](https://github.com/redwoodjs/awesome-redwood#articles)
+* [Video](https://github.com/redwoodjs/awesome-redwood#video)
+  * [Tutorials](https://github.com/redwoodjs/awesome-redwood#tutorials)
+  * [Talks](https://github.com/redwoodjs/awesome-redwood#talks)
+  * [Meetups](https://github.com/redwoodjs/awesome-redwood#meetups)
+* [Podcasts](https://github.com/redwoodjs/awesome-redwood#podcasts)
+* [Auth](https://github.com/redwoodjs/awesome-redwood#auth)
+  * [Providers](https://github.com/redwoodjs/awesome-redwood#providers)
+  * [Tutorials](https://github.com/redwoodjs/awesome-redwood#tutorials-1)
+  * [Example Applications](https://github.com/redwoodjs/awesome-redwood#example-applications-1)
+  * [Community Discussion](https://github.com/redwoodjs/awesome-redwood#community-discussion)
+* [CSS](https://github.com/redwoodjs/awesome-redwood#css)
+* [Plugins](https://github.com/redwoodjs/awesome-redwood#plugins)
+* [Storybook](https://github.com/redwoodjs/awesome-redwood#storybook)
+* [Production Redwood Applications](https://github.com/redwoodjs/awesome-redwood#production-redwood-applications)
+* [Community](https://github.com/redwoodjs/awesome-redwood#community)
+* [Comparisons to Other Frameworks](https://github.com/redwoodjs/awesome-redwood#comparisons-to-other-frameworks)
 
 ## Official
 
