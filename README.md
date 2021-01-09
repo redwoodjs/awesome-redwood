@@ -99,6 +99,9 @@ A community-driven collection of Redwood related plugins, config, themes, build 
 
 #### Talks
 
+- [Building Fullstack Jamstack Applications with RedwoodJS (JS Monthly)](https://www.youtube.com/watch?v=x3NuaErh6vs) - Anthony Campolo
+- [Building Fullstack Jamstack Applications with RedwoodJS (Jamstack OPO)](https://www.youtube.com/watch?v=RwZ1bWWRJQI) - Anthony Campolo
+- [RedwoodJS and the Universal Deployment Machine](https://www.youtube.com/watch?v=QHmBRaizvxE) - Anthony Campolo
 - [Fullstack with RedwoodJS](https://www.youtube.com/watch?v=pd5izJOa8ZE&feature=youtu.be&t=2455) - David Price
 - [How I Built a Product in 3 Days Thanks to RedwoodJS](https://youtu.be/cDVqhJuTSBo?t=939) - Anthony Morris
 - [Architecting a Fullstack Jamstack Application with FaunaDB, RedwoodJS, and GraphQL](https://www.youtube.com/watch?v=J-StXLZXG98) - Anthony Campolo
