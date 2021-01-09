@@ -123,16 +123,16 @@ A community-driven collection of Redwood related plugins, config, themes, build 
 
 ## Podcasts
 
-- [Talking Serverless](https://www.talkingserverless.io/?wix-music-track-id=5123793965023232&wix-music-comp-id=comp-kdpjg7ey)
-- [Fullstack Jamstack Podcast](https://fsjam.org/episodes/episode-4-bringing-fullstack-to-the-jamstack-with-tom-preston-werner)
-- [Jamstack Radio](https://www.heavybit.com/library/podcasts/jamstack-radio/ep-66-studying-the-stack-with-anthony-campolo/)
-- [Smashing Podcast](https://podcast.smashingmagazine.com/episodes/what-is-redwoodjs-with-anthony-campolo)
-- [Frontend First](https://frontendfirst.fm/episodes/tom-preston-werner-on-architecture-decisions-in-redwood-js)
-- [Software Daily](https://www.softwaredaily.com/post/5ec7997912b353000c6381d8/RedwoodJS-with-Tom-PrestonWerner)
-- [WAPI Radio](https://www.listennotes.com/podcasts/wapi-radio-bootleg/the-making-of-redwoodjs-yM0a3AvuGDH/)
-- [Shoptalk](https://shoptalkshow.com/412)
-- [JS Party](https://changelog.com/jsparty/119)
-- [Fullstack Radio](http://www.fullstackradio.com/138)
+- [Talking Serverless - Anthony Campolo RedwoodJS Contributor](https://www.talkingserverless.io/?wix-music-track-id=5123793965023232&wix-music-comp-id=comp-kdpjg7ey)
+- [Fullstack Jamstack Podcast - Bringing Fullstack to the Jamstack with Tom Preston-Werner](https://fsjam.org/episodes/episode-4-bringing-fullstack-to-the-jamstack-with-tom-preston-werner)
+- [Jamstack Radio - Studying The Stack with Anthony Campolo](https://www.heavybit.com/library/podcasts/jamstack-radio/ep-66-studying-the-stack-with-anthony-campolo/)
+- [Smashing Podcast - What Is RedwoodJS? with Anthony Campolo](https://podcast.smashingmagazine.com/episodes/what-is-redwoodjs-with-anthony-campolo)
+- [Frontend First - Tom Preston-Werner on Architecture Decisions in RedwoodJS](https://frontendfirst.fm/episodes/tom-preston-werner-on-architecture-decisions-in-redwood-js)
+- [Software Daily - RedwoodJS with Tom Preston-Werner](https://www.softwaredaily.com/post/5ec7997912b353000c6381d8/RedwoodJS-with-Tom-PrestonWerner)
+- [WAPI Radio - The Making of RedwoodJS](https://www.listennotes.com/podcasts/wapi-radio-bootleg/the-making-of-redwoodjs-yM0a3AvuGDH/)
+- [Shoptalk - RedwoodJS with Tom Preston-Warner](https://shoptalkshow.com/412)
+- [Fullstack Radio - Building Fullstack JS Apps with RedwoodJS](http://www.fullstackradio.com/138)
+- [JS Party - RedwoodJS brings Fullstack to the Jamstack](https://changelog.com/jsparty/119)
 
 ## Auth
 
