@@ -144,6 +144,7 @@ A community-driven collection of Redwood related plugins, config, themes, build 
 - [Magic Links - Magic.js](https://github.com/MagicHQ/magic-js)
 - [Firebase's GoogleAuthProvider](https://firebase.google.com/docs/reference/js/firebase.auth.GoogleAuthProvider)
 - [Supabase](https://supabase.io/docs/library/getting-started#reference)
+- [Azure Active Directory](https://github.com/AzureAD/microsoft-authentication-library-for-js)
 - Custom
 
 #### Tutorials
