@@ -73,6 +73,7 @@ A community-driven collection of Redwood related plugins, config, themes, build 
 
 - [RedwoodJS React Query Provider](https://www.npmjs.com/package/redwoodjs-react-query-provider)
 - [Switch out @apollo/client for smaller bundle size](https://github.com/redwoodjs/redwood/issues/1455)
+- [We’re Evaluating a New Default GraphQL Client](https://community.redwoodjs.com/t/were-evaluating-a-new-default-graphql-client-discussion-wanted/1344)
 
 ## Articles
 
