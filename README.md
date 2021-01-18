@@ -10,6 +10,7 @@ A community-driven collection of Redwood related plugins, config, themes, build 
   * [Video Tutorial](https://github.com/redwoodjs/awesome-redwood#video-tutorial)
 * [Deployment](https://github.com/redwoodjs/awesome-redwood#deployment)
 * [Storage](https://github.com/redwoodjs/awesome-redwood#storage)
+* [Client](https://github.com/redwoodjs/awesome-redwood#client)
 * [Articles](https://github.com/redwoodjs/awesome-redwood#articles)
 * [Video](https://github.com/redwoodjs/awesome-redwood#video)
   * [Tutorials](https://github.com/redwoodjs/awesome-redwood#tutorials)
@@ -67,6 +68,11 @@ A community-driven collection of Redwood related plugins, config, themes, build 
 - [Using Redwood with Neo4j Database](https://community.redwoodjs.com/t/using-redwood-with-neo4j-database/282)
 - [Setting up local postgres database for noobs like me](https://community.redwoodjs.com/t/setting-up-local-postgres-database-for-noobs-like-me/1059)
 - [Many-to-Many Relationships the Redwood Way™️](https://community.redwoodjs.com/t/many-to-many-relationships-the-redwood-way/343)
+
+## Client
+
+- [RedwoodJS React Query Provider](https://www.npmjs.com/package/redwoodjs-react-query-provider)
+- [Switch out @apollo/client for smaller bundle size](https://github.com/redwoodjs/redwood/issues/1455)
 
 ## Articles
 
