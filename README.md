@@ -31,20 +31,20 @@ A community-driven collection of Redwood related plugins, config, themes, build 
 
 ## Official
 
-#### Community Links
+### Community Links
 
 * [redwoodjs.com](https://redwoodjs.com)
 * [Community Forum](https://community.redwoodjs.com/)
 * [GitHub](https://github.com/redwoodjs/redwood)
 * [Youtube](https://www.youtube.com/channel/UC28N26JtvmJpyD-GD0GOlaQ)
 
-#### Example Applications
+### Example Applications
 
 * [Todo](https://github.com/redwoodjs/example-todo), [Netlify](https://redwood-example-blog.netlify.app/), [Summary](https://community.redwoodjs.com/t/example-todo-app/23)
 * [Blog](https://github.com/redwoodjs/example-blog), [Vercel](https://redwoodjs-example-blog.vercel.app), [Summary](https://community.redwoodjs.com/t/example-blog-app/24)
 * [Invoice](https://github.com/redwoodjs/example-invoice), [Netlify](https://redwood-example-invoice.netlify.app/)
 
-#### Video Tutorial
+### Video Tutorial
 
 * [Part 1](https://www.youtube.com/watch?v=tiF9SdM1i7M)
 * [Part 2](https://www.youtube.com/watch?v=SP5vbsWf5Yg)
@@ -95,16 +95,7 @@ A community-driven collection of Redwood related plugins, config, themes, build 
 
 ## Video
 
-#### Tutorials
-
-* [Learn With Jason - Let's Learn RedwoodJS with Anthony Campolo](https://www.youtube.com/watch?v=o9JVHmYvs9Q)
-* [Rob Cameron - Redwood.js Core Team - Learn With Us Part 2](https://www.youtube.com/watch?v=v7-IwJ35xOE)
-* [Rob Cameron - Redwood.js Core Team - Learn With Us Part 1](https://www.youtube.com/watch?v=1DW3pXZhPFw)
-* [Max Stoiber Live with @appfactory](https://www.youtube.com/watch?v=5rfE3x8ri9M)
-* [Redwood Talk and Demo by its Co-Author Peter Pistorius aka @appfactory](https://www.youtube.com/watch?list=PLCC436JpVnK31LZG2cNINhlEQ1KTm39BR&v=rAb0H-MD-Fs)
-* [Introduction to RedwoodJS: Fullstack Framework for Jamstack](https://egghead.io/playlists/introduction-to-redwoodjs-full-stack-jamstack-framework-2b10)
-
-#### Talks
+### Talks
 
 * [Building Fullstack Jamstack Applications with RedwoodJS (JS Monthly)](https://www.youtube.com/watch?v=x3NuaErh6vs) - Anthony Campolo
 * [Building Fullstack Jamstack Applications with RedwoodJS (Jamstack OPO)](https://www.youtube.com/watch?v=RwZ1bWWRJQI) - Anthony Campolo
@@ -117,7 +108,7 @@ A community-driven collection of Redwood related plugins, config, themes, build 
 * [RedwoodJS: Bringing Fullstack to the Jamstack](https://www.youtube.com/watch?v=uBvG0zmRLJM) - Tom Preston-Werner
 * [RedwoodJS Demo](https://www.youtube.com/watch?v=NWCECB-GlWI) - Tom Preston-Werner
 
-#### Meetups
+### Meetups
 
 * [January 14 - Demo of a Real-time Redwood App](https://www.youtube.com/watch?v=H4E4QW5QOuU)
 * [December 3 - What's New and Coming in v1](https://www.youtube.com/watch?v=ZbA7HUBHEJE)
@@ -128,6 +119,15 @@ A community-driven collection of Redwood related plugins, config, themes, build 
 * [August 28th - Roadmap to v1, Auth and RBAC, FaunaDB, Deploy to Vercel](https://www.youtube.com/watch?v=FTyH-xszRa8)
 * [July 30th - Main Session](https://www.youtube.com/watch?v=7JHNuk1bwTw)
 * [July 30th - Data Migrations](https://www.youtube.com/watch?v=Y7lcv7yBTVI)
+
+### Tutorials
+
+* [Learn With Jason - Let's Learn RedwoodJS with Anthony Campolo](https://www.youtube.com/watch?v=o9JVHmYvs9Q)
+* [Rob Cameron - Redwood.js Core Team - Learn With Us Part 2](https://www.youtube.com/watch?v=v7-IwJ35xOE)
+* [Rob Cameron - Redwood.js Core Team - Learn With Us Part 1](https://www.youtube.com/watch?v=1DW3pXZhPFw)
+* [Max Stoiber Live with @appfactory](https://www.youtube.com/watch?v=5rfE3x8ri9M)
+* [Redwood Talk and Demo by its Co-Author Peter Pistorius aka @appfactory](https://www.youtube.com/watch?list=PLCC436JpVnK31LZG2cNINhlEQ1KTm39BR&v=rAb0H-MD-Fs)
+* [Introduction to RedwoodJS: Fullstack Framework for Jamstack](https://egghead.io/playlists/introduction-to-redwoodjs-full-stack-jamstack-framework-2b10)
 
 ## Podcasts
 
@@ -153,7 +153,7 @@ A community-driven collection of Redwood related plugins, config, themes, build 
 
 ## Auth
 
-#### Providers
+### Providers
 
 * [Netlify Identity Widget](https://github.com/netlify/netlify-identity-widget)
 * [Auth0](https://github.com/auth0/auth0-spa-js)
@@ -164,7 +164,7 @@ A community-driven collection of Redwood related plugins, config, themes, build 
 * [Azure Active Directory](https://github.com/AzureAD/microsoft-authentication-library-for-js)
 - Custom
 
-#### Tutorials
+### Tutorials
 
 * [RedwoodJS Authentication in 5 minutes](https://www.youtube.com/watch?v=bo2-H8FjjXk)
 * [Netlify Identity Widget](https://redwoodjs.com/tutorial/authentication)
@@ -172,13 +172,13 @@ A community-driven collection of Redwood related plugins, config, themes, build 
 * [Role-based Access Control (RBAC)](https://redwoodjs.com/cookbook/role-based-access-control-rbac)
 * [Redwood Tutorial-Blog with Netlify Identity and RBAC](https://github.com/dthyresson/redwoodblog-rbac)
 
-#### Example Applications
+### Example Applications
 
 * [Auth Playground](https://github.com/redwoodjs/playground-auth)
 * [GoTrue Example App](https://github.com/Terris/redwood-gotrue-example)
 * [RBAC Example App](https://redwoodblog-with-identity.netlify.app/)
 
-#### Community Discussion
+### Community Discussion
 
 * [Dumping the Netlify Identity Widget - Using GoTrue Auth with Email Verification](https://community.redwoodjs.com/t/dumping-the-netlify-identity-widget-using-gotrue-auth-with-email-verification/1550)
 * [Can I use CASL?](https://community.redwoodjs.com/t/can-i-use-casl/1502)
