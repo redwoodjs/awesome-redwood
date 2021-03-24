@@ -194,6 +194,7 @@ A community-driven collection of Redwood related plugins, config, themes, build 
 * [Use Linaria CSS-in-JS](https://community.redwoodjs.com/t/how-to-use-linaria-css-in-js-with-redwoodjs/612)
 * [Using Theme UI with RedwoodJS](https://www.erichowey.dev/writing/using-theme-ui-with-redwoodjs/)
 * [Adding TailwindCSS to RedwoodJS](https://mdv.io/tailwindcss-in-redwoodjs)
+* [Redwood: Twin.Macro & Emotion Example](https://github.com/realStandal/redwoodjs-twin.macro-emotion-example)
 
 ## Plugins
 
