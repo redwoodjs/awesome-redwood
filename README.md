@@ -216,14 +216,20 @@ A community-driven collection of Redwood related plugins, config, themes, build 
 
 ## Production Redwood Applications
 
-* [Tape.sh](https://www.tape.sh/) - CLI tool for screen recording and sharing for iOS and Android, but without the fuss
+* [Tape.sh](https://www.tape.sh/) - Screen recording and collaboration tool for software teams
   * [Summary](https://community.redwoodjs.com/t/tape-sh-launch-on-producthunt/1163) - Danny Choudhury
-* [repeater.dev](https://repeater.dev/) - Background job processing for the Jamstack
-  * [Summary](https://community.redwoodjs.com/t/repeater-dev-now-available-in-beta-background-jobs-for-the-jamstack/1036) - Rob Cameron
-* [Teamstream.gg](https://teamstream.gg/) - Realtime Tournament Viewer
-  * [Summary](https://community.redwoodjs.com/t/apex-tournament-viewer-teamstream-gg/1329) - Kris Coulson
 * [Everfund](https://everfund.co.uk/) - Supercharged Fundraising Platform for Non-profits
   * Summary - ???
+* [repeater.dev](https://repeater.dev/) - Background job processing for the Jamstack
+  * [Summary](https://community.redwoodjs.com/t/repeater-dev-now-available-in-beta-background-jobs-for-the-jamstack/1036) - Rob Cameron
+* [Commonality](https://commonality.co/) - Data-driven OKR platform for achieving measurable results at scale
+  * [Summary](https://community.redwoodjs.com/t/scaling-your-organization-with-okrs-and-redwoodjs/1832) - Alec Ortega
+* [Dentry](https://dentry.io/) - Find and share projects or entry level job roles
+  * [Summary](https://community.redwoodjs.com/t/platform-to-find-entry-level-jobs-and-projects-to-gain-mastery-by-building/1683) - William Imoh
+* [FlipAgain](https://flipagain.io/) - Flashcard app for studying
+  * [Summary](https://community.redwoodjs.com/t/capturing-my-development-journey-of-flipagain/1743) - Keith Elliott
+* [Teamstream.gg](https://teamstream.gg/) - Realtime Tournament Viewer
+  * [Summary](https://community.redwoodjs.com/t/apex-tournament-viewer-teamstream-gg/1329) - Kris Coulson
 * [Predict COVID](https://predictcovid.com/) - Visualize the 2020 COVID-19 pandemic, country-to-country
   * [Summary](https://community.redwoodjs.com/t/the-1st-production-redwood-app-predict-covid-19-by-country/148) - Lachlan Campbell
 * [Vida](https://vida.io/) - Create compelling dashboards quickly, no coding required
