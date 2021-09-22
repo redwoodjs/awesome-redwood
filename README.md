@@ -47,6 +47,8 @@ A community-driven collection of Redwood related plugins, config, themes, build 
 
 ### Video Tutorial
 
+**WARNING: The video tutorial is currently out of date and contains numerous breaking changes among Prisma Migrate commands and application structure.**
+
 * [Part 1](https://www.youtube.com/watch?v=tiF9SdM1i7M)
 * [Part 2](https://www.youtube.com/watch?v=SP5vbsWf5Yg)
 * [Part 3](https://www.youtube.com/watch?v=eT7iIy0F8Tk)
@@ -56,12 +58,16 @@ A community-driven collection of Redwood related plugins, config, themes, build 
 
 * [Netlify](https://redwoodjs.com/tutorial/deployment#netlify)
 * [Vercel](https://vercel.com/guides/deploying-redwood-with-vercel)
-* [Serverless](https://community.redwoodjs.com/t/experimenting-with-aurora-serverless-aws-lambdas-and-aws-api-gateways/1039)
-* [Serverfull](https://community.redwoodjs.com/t/serverfull-hosting/1182)
+* [Render](https://render.com/docs/deploy-redwood)
+* [Serverless](https://redwoodjs.com/docs/deploy#aws-serverless-deploy)
+* [Fly.io](https://community.redwoodjs.com/t/dockerize-redwoodjs/2291/4)
+* [PM2](https://community.redwoodjs.com/t/serverfull-hosting/1182)
+* [Heroku](https://community.redwoodjs.com/t/self-host-on-heroku/1765)
 
 ## Storage
 
-* [Heroku Postgres](https://redwoodjs.com/tutorial/deployment#the-database)
+* [Railway](https://redwoodjs.com/tutorial/deployment#the-database)
+* [Setup Database with Railway CLI](https://community.redwoodjs.com/t/setup-database-with-railway-cli/2025)
 * [Azure Postgres](https://kimadeline.github.io/blog/posts/redwoodjs-azure-postgresql/)
 * [AWS S3 - File uploads](https://community.redwoodjs.com/t/aws-s3-file-uploads/1518)
 * [Building a Minimum Viable Stack with RedwoodJS and FaunaDB](https://fauna.com/blog/building-a-minimum-viable-stack-with-redwoodjs-and-faunadb)
@@ -75,24 +81,6 @@ A community-driven collection of Redwood related plugins, config, themes, build 
 * [RedwoodJS React Query Provider](https://www.npmjs.com/package/redwoodjs-react-query-provider)
 * [Switch out @apollo/client for smaller bundle size](https://github.com/redwoodjs/redwood/issues/1455)
 * [We’re Evaluating a New Default GraphQL Client](https://community.redwoodjs.com/t/were-evaluating-a-new-default-graphql-client-discussion-wanted/1344)
-
-## Articles
-
-* [RedwoodJS: 5 Features that Make it Unique among Jamstack Frameworks](https://blog.bitsrc.io/redwoodjs-5-features-that-make-it-unique-among-jamstack-frameworks-edc81745132c)
-* [RedwoodJS ecommerce with Snipcart](https://dev.to/studio_hungry/redwoodjs-ecommerce-with-snipcart-402n)
-* [My journey from Django to RedwoodJS](https://betocmn.com/blog/my-journey-from-django-to-redwoodjs)
-* [Developing my roots with RedwoodJS](https://blog.mintbean.io/developing-my-roots-with-redwoodjs-2/)
-* [Getting started with RedwoodJS](https://blog.logrocket.com/getting-started-with-redwoodjs/)
-* [Building a Fullstack Application using RedwoodJS](https://soshace.com/building-a-full-stack-application-using-redwoodjs/)
-* [Grokking Redwood](https://community.redwoodjs.com/t/groking-redwood/772)
-* [Bring Fullstack to the Jamstack with RedwoodJS](https://blog.bitsrc.io/bring-full-stack-to-the-jamstack-with-redwoodjs-faa9d04429a9)
-- [The Jamstack Goes Fullstack: RedwoodJS Framework Tutorial](https://snipcart.com/blog/jamstack-framework-redwoodjs-tutorial)
-* [RedwoodJS; Fullstack JavaScript Framework With a Developer in Mind](https://medium.com/javascript-in-plain-english/redwoodjs-full-stack-javascript-framework-with-a-developer-in-mind-dfa7d7a6d905)
-* [Redwood ecommerce with Snipcart](https://richardhaines.dev/redwood-ecommerce-with-snipcart/)
-* [A Look at RedwoodJS](https://medium.com/better-programming/a-look-at-redwoodjs-cf0e1d117f5)
-* [First look at RedwoodJS](https://richardhaines.dev/first-look-at-redwoodjs/)
-* [RedwoodJS - the Fullstack Jamstack Framework](https://www.netlify.com/blog/2020/03/11/redwoodjs-the-full-stack-jamstack-framework/)
-* [React Single File Components Are Here](https://www.swyx.io/writing/react-sfcs-here)
 
 ## Video
 
@@ -156,14 +144,18 @@ A community-driven collection of Redwood related plugins, config, themes, build 
 
 ### Providers
 
-* [Netlify Identity Widget](https://github.com/netlify/netlify-identity-widget)
-* [Auth0](https://github.com/auth0/auth0-spa-js)
-* [Netlify GoTrue-JS](https://github.com/netlify/gotrue-js)
-* [Magic Links - Magic.js](https://github.com/MagicHQ/magic-js)
-* [Firebase's GoogleAuthProvider](https://firebase.google.com/docs/reference/js/firebase.auth.GoogleAuthProvider)
-* [Supabase](https://supabase.io/docs/library/getting-started#reference)
-* [Azure Active Directory](https://github.com/AzureAD/microsoft-authentication-library-for-js)
-- Custom
+* [Netlify Identity Widget](https://github.com/netlify/netlify-identity-widget) - [Redwood Docs](https://redwoodjs.com/docs/authentication#netlify-identity-widget)
+* [Netlify GoTrue-JS](https://github.com/netlify/gotrue-js) - [Redwood Docs](https://redwoodjs.com/docs/authentication#gotrue-js)
+* [Auth0](https://github.com/auth0/auth0-spa-js) - [Redwood Docs](https://redwoodjs.com/docs/authentication#auth0)
+* [Clerk](https://clerk.dev/) - [Redwood Docs](https://redwoodjs.com/docs/authentication#clerk)
+* [Azure Active Directory](https://github.com/AzureAD/microsoft-authentication-library-for-js) - [Redwood Docs](https://redwoodjs.com/docs/authentication#azure-active-directory)
+* [Magic Links - Magic.js](https://github.com/MagicHQ/magic-js) - [Redwood Docs](https://redwoodjs.com/docs/authentication#magic-link)
+* [Firebase's GoogleAuthProvider](https://firebase.google.com/docs/reference/js/firebase.auth.GoogleAuthProvider) - [Redwood Docs](https://redwoodjs.com/docs/authentication#firebase)
+* [Supabase](https://supabase.io/docs/guides/auth) - [Redwood Docs](https://redwoodjs.com/docs/authentication#supabase)
+* [Ethereum](https://github.com/oneclickdapp/ethereum-auth) - [Redwood Docs](https://redwoodjs.com/docs/authentication#ethereum)
+* [Nhost](https://docs.nhost.io/auth) - [Redwood Docs](https://redwoodjs.com/docs/authentication#nhost)
+* [Custom](https://redwoodjs.com/docs/authentication#custom)
+
 
 ### Tutorials
 
@@ -237,12 +229,8 @@ A community-driven collection of Redwood related plugins, config, themes, build 
   * [Repo](https://github.com/vidalab/vida) 
 * [Duoflag](https://www.duoflag.com/) - Find out your best visa options to migrate to your dream country
   * [Summary](https://community.redwoodjs.com/t/going-to-production-with-my-redwood-powered-side-project/1062) - Beto de Castro Moreira
-* [Postage](https://postage.care/) - We're on a mission to reduce loneliness in care homes
-  * [Summary](https://github.com/amorriscode/how-i-built-a-product-in-3-days) - Anthony Morris
 * [isBusy](https://isbusy.app/) - Get a free-forever personal status page for remote work
   * [Summary](https://community.redwoodjs.com/t/first-project-w-redwood-isbusy-free-personal-status-page-for-remote-work/837) - Mark Thomas
-* [fished.io](https://fished.io/) - Phishing simulation & training. Test, train and protect your employees.
-  * [Summary](https://community.redwoodjs.com/t/deploying-to-aws-and-hosting-the-api-on-a-subdomain/1251) - Jay McMullen
 
 ## Community
 
