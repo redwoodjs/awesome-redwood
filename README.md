@@ -119,9 +119,13 @@ A community-driven collection of Redwood related plugins, config, themes, build 
 
 ## Podcasts
 
-* [Rails with Jason - RedwoodJS with Anthony Campolo, RedwoodJS Core Advocate](https://www.codewithjason.com/rails-with-jason-podcast/anthony-campolo/)
+* [Does Not Compute - RedwoodJS, StepZen, and More with Anthony Campolo](https://spec.fm/podcasts/does-not-compute/FzVJ74U3)
+* [Talking Serverless - Anthony Campolo Returns!](https://www.talkingserverless.io/episodes/ep-38%3A-anthony-campolo-returns!)
+* [JavaScript Jabber - RedwoodJS Brings Fullstack to the Jamstack with Anthony Campolo](https://devchat.tv/js-jabber/jsj-472-redwoodjs-brings-full-stack-to-the-jamstack-with-anthony-campolo/)
+* [Web Rush - RedwoodJS with Anthony Campolo](https://webrush.io/episodes/episode-119-redwood-js-with-anthony-campolo)
+* [Rails with Jason - RedwoodJS with Anthony Campolo, RedwoodJS Core Advocate](https://www.codewithjason.com/code-with-jason-podcast/episodes/anthony-campolo-nCdzUggt/)
 * [Does Not Compute - RedwoodJS with Anthony Campolo](https://spec.fm/podcasts/does-not-compute/SdKxPhhS)
-* [Talking Serverless - Anthony Campolo RedwoodJS Contributor](https://www.talkingserverless.io/?wix-music-track-id=5123793965023232&wix-music-comp-id=comp-kdpjg7ey)
+* [Talking Serverless - Anthony Campolo RedwoodJS Contributor](https://www.talkingserverless.io/episodes/ep-30%3A-anthony-campolo-redwoodjs-contributor)
 * [That's My Jamstack - Anthony Campolo on full-stack serverless frameworks](https://thatsmyjamstack.com/posts/anthony-campolo/)
 * [Jamstack Radio - Studying The Stack with Anthony Campolo](https://www.heavybit.com/library/podcasts/jamstack-radio/ep-66-studying-the-stack-with-anthony-campolo/)
 * [Smashing Podcast - What Is RedwoodJS? with Anthony Campolo](https://podcast.smashingmagazine.com/episodes/what-is-redwoodjs-with-anthony-campolo)
@@ -134,6 +138,9 @@ A community-driven collection of Redwood related plugins, config, themes, build 
 
 ### FSJam
 
+* [UserVitals with Tharshan Muthulingam](https://fsjam.org/episodes/episode-41-uservitals-with-tharshan-muthulingam)
+* [Multilingual Documentation with Claire Froelich](https://fsjam.org/episodes/episode-26-multilingual-documentation-with-claire-froelich)
+* [Tutorial Driven Development with Rob Cameron](https://fsjam.org/episodes/episode-23-tutorial-driven-development-with-rob-cameron)
 * [Tape.sh with Danny Choudhury](https://fsjam.org/episodes/episode-16-tape-sh-with-danny-choudhury)
 * [Shipping Web Applications with Dominic Saadi](https://fsjam.org/episodes/episode-7-dominic-saadi)
 * [Bringing Fullstack to the Jamstack with Tom Preston-Werner](https://fsjam.org/episodes/episode-4-bringing-fullstack-to-the-jamstack-with-tom-preston-werner)
@@ -154,7 +161,6 @@ A community-driven collection of Redwood related plugins, config, themes, build 
 * [Ethereum](https://github.com/oneclickdapp/ethereum-auth) - [Redwood Docs](https://redwoodjs.com/docs/authentication#ethereum)
 * [Nhost](https://docs.nhost.io/auth) - [Redwood Docs](https://redwoodjs.com/docs/authentication#nhost)
 * [Custom](https://redwoodjs.com/docs/authentication#custom)
-
 
 ### Tutorials
 
