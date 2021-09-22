@@ -11,7 +11,6 @@ A community-driven collection of Redwood related plugins, config, themes, build 
 * [Deployment](https://github.com/redwoodjs/awesome-redwood#deployment)
 * [Storage](https://github.com/redwoodjs/awesome-redwood#storage)
 * [Client](https://github.com/redwoodjs/awesome-redwood#client)
-* [Articles](https://github.com/redwoodjs/awesome-redwood#articles)
 * [Video](https://github.com/redwoodjs/awesome-redwood#video)
   * [Talks](https://github.com/redwoodjs/awesome-redwood#talks)
   * [Meetups](https://github.com/redwoodjs/awesome-redwood#meetups)
