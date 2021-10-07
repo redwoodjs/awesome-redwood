@@ -219,7 +219,6 @@ A community-driven collection of Redwood related plugins, config, themes, build 
 * [Tape.sh](https://www.tape.sh/) - Screen recording and collaboration tool for software teams
   * [Summary](https://community.redwoodjs.com/t/tape-sh-launch-on-producthunt/1163) - Danny Choudhury
 * [Everfund](https://everfund.co.uk/) - Supercharged Fundraising Platform for Non-profits
-  * Summary - ???
 * [repeater.dev](https://repeater.dev/) - Background job processing for the Jamstack
   * [Summary](https://community.redwoodjs.com/t/repeater-dev-now-available-in-beta-background-jobs-for-the-jamstack/1036) - Rob Cameron
 * [Commonality](https://commonality.co/) - Data-driven OKR platform for achieving measurable results at scale
@@ -227,6 +226,8 @@ A community-driven collection of Redwood related plugins, config, themes, build 
 * [Teamstream.gg](https://teamstream.gg/) - Realtime Tournament Viewer
   * [Summary](https://community.redwoodjs.com/t/apex-tournament-viewer-teamstream-gg/1329) - Kris Coulson
 * [Pullflow](https://pullflow.com/) - Smoother code reviews with GitHub + Slack
+* [SportOffice](https://www.sportoffice.io/) - Management and e-commerce tool for outdoor activities schools
+  * [Summary](https://community.redwoodjs.com/t/startup-sportoffice/1983/) - Thomas Seillan
 * [Dentry](https://dentry.io/) - Find and share projects or entry level job roles
   * [Summary](https://community.redwoodjs.com/t/platform-to-find-entry-level-jobs-and-projects-to-gain-mastery-by-building/1683) - William Imoh
 * [FlipAgain](https://flipagain.io/) - Flashcard app for studying
