@@ -190,10 +190,23 @@ A community-driven collection of Redwood related plugins, config, themes, build 
 
 ## CSS
 
-* [Upgrading to TailwindCSS v2](https://community.redwoodjs.com/t/upgrading-to-tailwindcss-v2/1472)
+* [Recommendations for integrating a CSS library?](https://community.redwoodjs.com/t/recommendations-for-integrating-a-css-library/305)
+* [Sass Setup](https://redwoodjs.com/docs/webpack-configuration#sass)
 * [Use Linaria CSS-in-JS](https://community.redwoodjs.com/t/how-to-use-linaria-css-in-js-with-redwoodjs/612)
 * [Using Theme UI with RedwoodJS](https://www.erichowey.dev/writing/using-theme-ui-with-redwoodjs/)
+
+### Tailwind CSS
+
+* [Tailwind CSS Setup](https://redwoodjs.com/docs/webpack-configuration#tailwind-css)
+* [Upgrading to TailwindCSS v2](https://community.redwoodjs.com/t/upgrading-to-tailwindcss-v2/1472)
+* [Tailwind v0.36 Upgrade Guide](https://community.redwoodjs.com/t/tailwind-v0-36-upgrade-guide/2370)
 * [Adding TailwindCSS to RedwoodJS](https://mdv.io/tailwindcss-in-redwoodjs)
+
+### Twin.macro (warning, possibly broken)
+
+* [Twin.macro integration](https://community.redwoodjs.com/t/twin-macro-integration/1746)
+* [How to Style Your React Apps with Less Code Using Tailwind CSS, Styled Components, and Twin Macro](https://www.ibrahima-ndaw.com/blog/how-to-use-tailwind-styled-components/)
+* [Problems using twin.macro](https://community.redwoodjs.com/t/problems-using-twin-macro/2311)
 
 ## Plugins
 
