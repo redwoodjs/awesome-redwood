@@ -85,6 +85,7 @@ A community-driven collection of Redwood related plugins, config, themes, build 
 
 ### Talks
 
+* [Design-first Full-stack: RedwoodJS, Storybook, and Tailwind](https://www.youtube.com/watch?v=9OwgrOG6Wso) - David Price
 * [Architecting Jamstack Applications with GraphQL](https://www.youtube.com/watch?v=rZvNpMv4spE) - Anthony Campolo
 * [Building Fullstack E-commerce Applications with RedwoodJS, Shopify, and StepZen](https://www.youtube.com/watch?v=m9GyXH2GPuQ) - Anthony Campolo and Lucia Cerchie
 * [Fullstack Jamstack Development with RedwoodJS](https://www.youtube.com/watch?v=yT2kG4OQAnU) - Anthony Campolo
