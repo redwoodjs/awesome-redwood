@@ -179,6 +179,7 @@ A community-driven collection of Redwood related plugins, config, themes, build 
 * [Auth Playground](https://github.com/redwoodjs/playground-auth)
 * [GoTrue Example App](https://github.com/Terris/redwood-gotrue-example)
 * [RBAC Example App](https://redwoodblog-with-identity.netlify.app/)
+* [Realworld](https://github.com/TristanWYL/redwood-realworld-example-app)
 
 ### Community Discussion
 
