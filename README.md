@@ -120,6 +120,7 @@ A community-driven collection of Redwood related plugins, config, themes, build 
 * [Max Stoiber Live with @appfactory](https://www.youtube.com/watch?v=5rfE3x8ri9M)
 * [Redwood Talk and Demo by its Co-Author Peter Pistorius aka @appfactory](https://www.youtube.com/watch?list=PLCC436JpVnK31LZG2cNINhlEQ1KTm39BR&v=rAb0H-MD-Fs)
 * [Introduction to RedwoodJS: Fullstack Framework for Jamstack](https://egghead.io/playlists/introduction-to-redwoodjs-full-stack-jamstack-framework-2b10)
+* [https://cloudray.io/articles/how-to-deploy-redwoodjs-application-on-ubuntu](https://cloudray.io/articles/how-to-deploy-redwoodjs-application-on-ubuntu)
 
 ## Podcasts
 
