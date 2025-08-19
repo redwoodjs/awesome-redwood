@@ -1,4 +1,12 @@
-# awesome-redwood [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+**⚠️⚠️⚠️ NOTE: ⚠️⚠️⚠️**
+
+**YOU MAY ALSO BE INTERESTED IN CHECKING OUT [AWESOME-RWSDK](https://github.com/redwoodjs/awesome-rwsdk), WHICH IS A COLLECTION OF RESOURCES SPECIFICALLY FOR [REDWODSDK](https://github.com/redwoodjs/sdk)**. 
+
+This list focuses on Redwood GraphQL.
+
+---
+
+# awesome-redwood-graphql [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 A community-driven collection of Redwood related plugins, config, themes, build scripts, tutorials, and more.
 
